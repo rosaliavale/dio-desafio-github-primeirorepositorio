@@ -1,4 +1,43 @@
 Download do Git:
 https://git-scm.com/
 
+Endereço do GitHub:
+https://github.com/rosaliavale
+
 Introdução ao Git e ao GitHub
+
+Git
+
+## Principais comandos para Windows
+
+1) Listar: Dir (enter)
+2) Mudar de diretório: cd/ (enter)
+3) Voltar nível: cd .. (enter)
+4) Limpar a tela: ctrl + L 
+5) mkdir (nome): criar diretório
+6) rmdir (nome): remover diretório
+
+Estrutura do Git
+
+Blobs
+Trees: armazenam as blobs
+Commits: armazenam Trees e Blobs
+
+Principais comandos para criar um commit
+
+1) Git init
+2) Git add
+3) Git commit
+
+GitHub
+
+1) git config --global user.email "rosaliavale@gmail.com"
+2) git config --global user.name "rosaliavale"
+
+Passar de Git para repositório do GitHub
+
+1) git remote add origin (http://)
+2) git status (verifica)
+3) git push origin master (enter) (credenciais)
+
+
